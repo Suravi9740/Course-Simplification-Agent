@@ -1,4 +1,3 @@
-# Course-Simplification-Agent
 # Course Content Simplification Agent
 
 An AI-powered agent built using IBM Watsonx.ai and Granite-3-3-8b-instruct to simplify academic content based on learner proficiency levels (Beginner, Intermediate, Expert).
@@ -17,5 +16,3 @@ An AI-powered agent built using IBM Watsonx.ai and Granite-3-3-8b-instruct to si
 ## Deployment
 Built and deployed using Watsonx Agent Lab with document upload and runtime integration.
 
-## Screenshots
-See `/screenshots` folder.
