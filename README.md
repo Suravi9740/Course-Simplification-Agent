@@ -16,7 +16,7 @@ An AI chatbot built using IBM Watsonx.ai and Granite-3-3-8b-instruct. It simplif
 5. Deployed and tested the agent in preview mode
 
 ## Screenshots
-See the `/Screenshots` folder for Watsonx interface and outputs.
+See the /Screenshots/ folder for Watsonx interface and outputs.
 
 ## Status
 ✅ Agent deployed successfully on IBM Cloud
