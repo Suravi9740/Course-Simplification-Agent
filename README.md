@@ -1,18 +1,22 @@
 # Course Content Simplification Agent
 
-An AI-powered agent built using IBM Watsonx.ai and Granite-3-3-8b-instruct to simplify academic content based on learner proficiency levels (Beginner, Intermediate, Expert).
+An AI chatbot built using IBM Watsonx.ai and Granite-3-3-8b-instruct. It simplifies academic content based on user proficiency: Beginner, Intermediate, or Expert.
 
 ## Features
-- Text-based chatbot
-- Real-time simplification of content
-- Built on IBM Cloud with no-code tools
-- Uses vector index and document-based Q&A
+- Built using IBM Cloud Lite and Watsonx.ai Studio
+- Text-only chatbot with adaptive content explanation
+- Uses Granite foundation model for high-quality NLP
+- Supports real-time simplification and document-based Q&A
 
-## Technology
-- IBM Watsonx.ai Studio
-- IBM Granite foundation model
-- IBM Cloud Lite
+## How It Works
+1. Created a project in Watsonx.ai Studio
+2. Configured runtime with Granite-3-3-8b-instruct
+3. Uploaded academic documents as vector index
+4. Enabled tools like Q&A and content simplification
+5. Deployed and tested the agent in preview mode
 
-## Deployment
-Built and deployed using Watsonx Agent Lab with document upload and runtime integration.
+## Screenshots
+See the `/screenshots` folder for Watsonx interface and outputs.
 
+## Status
+✅ Agent deployed successfully on IBM Cloud
