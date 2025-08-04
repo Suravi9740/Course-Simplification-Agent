@@ -1,7 +1,8 @@
 # Course Content Simplification Agent
+<img width="600" height="350" alt="Agent" src="https://github.com/user-attachments/assets/4020e2c1-d912-41f0-b9af-6f6859208edb" />
+
 
 An AI chatbot built using IBM Watsonx.ai and Granite-3-3-8b-instruct. It simplifies academic content based on user proficiency: Beginner, Intermediate, or Expert.
-
 ## Features
 - Built using IBM Cloud Lite and Watsonx.ai Studio
 - Text-only chatbot with adaptive content explanation
